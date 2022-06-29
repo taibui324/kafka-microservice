@@ -58,9 +58,14 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
+## Test
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+localhost:3000 
+POST request: {
+    "userId" : "123",
+    "price": 234.2562
+}
+
 
 ## Stay in touch
 
